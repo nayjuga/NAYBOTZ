@@ -75,4 +75,5 @@ Edit the required value in `settings.json`. You can get the api key at [`BOTZ BY
 > THE OFFICIAL NAISA ALIFIA YURIZA YOUTUBE CHANNEL
 ```
 ## THANKS TO:
+ ```cmd
 * https://github.com/naisayuriza
