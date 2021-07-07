@@ -3,7 +3,7 @@ const addfoto = () => {
 	
 	*ADD DATABASE FOTO*
 	
-	FOTO BERHASIL DISIMPAN KE DATA!
+	FOTO BERHASIL DISIMPAN KE DATA!!
 	
 
 Thanks !`
