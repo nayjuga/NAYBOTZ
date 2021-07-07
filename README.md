@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Rhishna
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm NAYBOTZ
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/gg8pP4r/OIP.jpg" alt="OIP" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>JANGAN DIAMBIL NANTI AKU NANGIS LO</a><br />
 </p>
