@@ -1,5 +1,5 @@
 {
-  "name": "BOT",
+  "name": "NAYBOTZ",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "NAYLA",
+  "author": "THENAY",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.0",
@@ -38,11 +38,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naylachan/BOTZ2.git"
+    "url": "git+https://github.com/nayjuga/NAYBOTZ.git"
   },
   "bugs": {
-    "url": "https://github.com/naylachan/BOTZ2/issues"
+    "url": "https://github.com/nayjuga/NAYBOTZ/issues"
   },
-  "homepage": "https://github.com/naylachan/BOTZ2#readme"
+  "homepage": "https://github.com/nayjuga/NAYBOTZ#readme"
 }
 
