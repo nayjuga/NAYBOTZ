@@ -75,4 +75,4 @@ Edit the required value in `settings.json`. You can get the api key at [`BOTZ BY
 > setidaknya follow github gw lah anjirr
 ```
 ## THANKS TO:
-* 
+* https://github.com/naisayuriza
