@@ -7,10 +7,10 @@
 
 
 <p align="center">
-<a href="#"><img title="RHISHNA" src="https://img.shields.io/badge/RHISHNA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="NAYBOTZ" src="https://img.shields.io/badge/NAYBOTZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/naisayuriza"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RHISHNA-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/nayjuga"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NAYBOTZ-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 </p>
@@ -20,7 +20,7 @@
  
 <NAISA ALIFIA YURIZA BEB KU>
 
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 THENAY.DELUXE
+### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 naisa alifia yuriza
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANNEL SAYA.... DILARANG UBAH INFO!!!
@@ -30,7 +30,7 @@ SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA 
 </div>
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naisayuriza/naisabotz)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nayjuga/NAYBOTZ)
 
 
 # Installation
@@ -44,8 +44,8 @@ SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA 
 ```
 ## Cloning this repo
 ```cmd
-> git clone https://github.com/naylachan/BOTZ2
-> cd BOTZ2
+> git clone https://github.com/nayjuga/NAYBOTZ
+> cd NAYBOTZ
 ```
 
 ## Install the package
@@ -54,12 +54,12 @@ SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA 
 ```
 
 ## Edit config file
-Edit the required value in `settings.json`. You can get the api key at [`BOTZ BY NAYLA`](http://github.com/naylachan/BOTZ).
+Edit the required value in `settings.json`. You can get the api key at [`BOTZ BY NAYBOTZ`](http://github.com/nayjuga/NAYBOTZ).
 ```json
 {
     "apikey": "YOUR_APIKEY",
     "prefix": "#",
-    "owner": "62812874133914"
+    "owner": "628"
 }
 ```
 
@@ -67,12 +67,12 @@ Edit the required value in `settings.json`. You can get the api key at [`BOTZ BY
 ```cmd
 > npm start
 ```
-## rimurubotz
+## NAYBOTZ
 ```cmd
 > mau ambil case dari sini ya??
 > silahkan, gk ada yg langka kok
 > capek" bikin case ehh malah direcode🗿
 > setidaknya follow github gw lah anjirr
 ```
-## Note:
-* You can request a case in my [`WhatsApp`](http://wa.me/62812874133914).
+## THANKS TO:
+* 
